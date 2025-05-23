@@ -14,6 +14,7 @@ This project is dedicated to manual testing of the OpenCart web application. It 
 #Project Structure:
 
 | File Name |	Description |
+| --------- | ----------- |
 |FRS(OpenCart).pdf |	This PDF likely contains the Functional Requirements Specification (FRS) document for OpenCart, outlining the functional and non-functional requirements of the software. |
 TestPlan(OpenCart).pdf	This PDF is likely a Test Plan document for OpenCart, providing an overview of the testing strategy, objectives, scope, and schedule for testing the software.
 TestScenarios(OpenCart).xlsx	This Excel file likely contains test scenarios for OpenCart, which describe various situations and conditions that need to be tested to ensure the software functions correctly.
